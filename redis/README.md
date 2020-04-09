@@ -1,6 +1,6 @@
 redis：http://download.redis.io/releases/redis-5.0.8.tar.gz
 
-redis.conf必须放在根目录，否则copy时，会找不到该文件
+## redis.conf必须放在根目录，否则copy时，会找不到该文件
 
 登录： docker login
 
